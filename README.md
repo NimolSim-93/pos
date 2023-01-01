@@ -1,0 +1,1 @@
+# inventories-pos-system
